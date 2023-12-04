@@ -48,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 21
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -152,7 +152,7 @@ TextureImporter:
         width: 12
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -173,7 +173,7 @@ TextureImporter:
         width: 12
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -194,7 +194,7 @@ TextureImporter:
         width: 12
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -215,7 +215,7 @@ TextureImporter:
         width: 12
         height: 31
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -223,6 +223,678 @@ TextureImporter:
       bones: []
       spriteID: 3d164bc4e11a90b4ea0da915e9333ad0
       internalID: -1538037535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156.66667
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0767e296ad48f534abdfd2541edfadac
+      internalID: 1482587417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 156.66667
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00355d89491260346b5db9a32105e40b
+      internalID: -557384808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 156.66667
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971356e838f5c6749ac776162c3ba013
+      internalID: 790155481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 156.66667
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91c04267f1636742aacede5ee7426a5
+      internalID: -147114804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 156.66667
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecf7f81415cf12419ec993ab8c84a0e
+      internalID: -540966119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 156.66667
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dce603ce7b0ca54ab1a87b4a3b8660e
+      internalID: -239613986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 156.66667
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1c861744a0a2349a9685c100257500
+      internalID: 415299603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 156.66667
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2d7219594171649a661ce8bb83e0fb
+      internalID: 369786559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 156.66667
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192ceabc248952c4ab846b60bc4a59f9
+      internalID: 805598046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 156.66667
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2836e1ff40b6f459e18ce6d1e68f57
+      internalID: -1333775356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 156.66667
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14246531d838b024d9d3830a3b76944a
+      internalID: 41468938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 156.66667
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc3f797b45367548951888a2e0184e3
+      internalID: 908722939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93.66667
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c198dad61d7e6f04d9037ff0ead74854
+      internalID: -2067332838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 93.66667
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e7e4b2e2a09fe4daeeb7d2d8116ebf
+      internalID: -1461516280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 93.66667
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92ec7d8cf6d0d24ba63a3ff926147c4
+      internalID: 1632747467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_20
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 93.66667
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfef2202acf5d6e459cb0dce57155a1e
+      internalID: -18476401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 93.66667
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51eb4b642e9c534fa480dbd1b47b0be
+      internalID: -720615200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 93.66667
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a39044a1608f549bd52c863361a2d4
+      internalID: -283248661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 93.66667
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4a85cd995d67e42a12c95ee6c861dd
+      internalID: -1395234502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_24
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 93.66667
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9ded761d4b9a841b9b802f6bab0d68
+      internalID: -751375029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30.666668
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ad6f8b87ecc804a93d0b5308a960cf
+      internalID: -476495239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_26
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 30.666668
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7d8069a82d17a4faba07aeaf4c744d
+      internalID: 430774948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 30.666668
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f6d9c0608ca634e8e04160ad6fbe94
+      internalID: 968488135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 30.666668
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e746e0566033834e82d88f201a7dda3
+      internalID: -1069118850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 30.666668
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f4a02ccecc7cf4c95a5760b1e6c607
+      internalID: 1795113830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 30.666668
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2becc93d6881af4498f3bdb8f9aed299
+      internalID: 1732172174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 30.666668
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b745c070fe7db47821009c6971c096
+      internalID: -1349453357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_32
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 30.666668
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a954a140bca904784d3a2b69be2940
+      internalID: 44915581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 30.666668
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3c2a2dfe405bb46ab7447b3c80e797
+      internalID: 870954179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 30.666668
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db3a74174282f7429a2670193b01dab
+      internalID: -1908014308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 30.666668
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2156d2492db22ca479f58930c786cb8a
+      internalID: -343037697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Seiklus - Other Seikleja_36
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 30.666668
+        width: 19
+        height: 33.333332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f72866045bdc184fa5c3b638072db1e
+      internalID: 1634033860
       vertices: []
       indices: 
       edges: []
@@ -240,9 +912,41 @@ TextureImporter:
     nameFileIdTable:
       PC Computer - Seiklus - Other Seikleja_0: 569904723
       PC Computer - Seiklus - Other Seikleja_1: -1231716241
+      PC Computer - Seiklus - Other Seikleja_10: -239613986
+      PC Computer - Seiklus - Other Seikleja_11: 415299603
+      PC Computer - Seiklus - Other Seikleja_12: 369786559
+      PC Computer - Seiklus - Other Seikleja_13: 805598046
+      PC Computer - Seiklus - Other Seikleja_14: -1333775356
+      PC Computer - Seiklus - Other Seikleja_15: 41468938
+      PC Computer - Seiklus - Other Seikleja_16: 908722939
+      PC Computer - Seiklus - Other Seikleja_17: -2067332838
+      PC Computer - Seiklus - Other Seikleja_18: -1461516280
+      PC Computer - Seiklus - Other Seikleja_19: 1632747467
       PC Computer - Seiklus - Other Seikleja_2: -1170358125
+      PC Computer - Seiklus - Other Seikleja_20: -18476401
+      PC Computer - Seiklus - Other Seikleja_21: -720615200
+      PC Computer - Seiklus - Other Seikleja_22: -283248661
+      PC Computer - Seiklus - Other Seikleja_23: -1395234502
+      PC Computer - Seiklus - Other Seikleja_24: -751375029
+      PC Computer - Seiklus - Other Seikleja_25: -476495239
+      PC Computer - Seiklus - Other Seikleja_26: 430774948
+      PC Computer - Seiklus - Other Seikleja_27: 968488135
+      PC Computer - Seiklus - Other Seikleja_28: -1069118850
+      PC Computer - Seiklus - Other Seikleja_29: 1795113830
       PC Computer - Seiklus - Other Seikleja_3: -479630741
+      PC Computer - Seiklus - Other Seikleja_30: 1732172174
+      PC Computer - Seiklus - Other Seikleja_31: -1349453357
+      PC Computer - Seiklus - Other Seikleja_32: 44915581
+      PC Computer - Seiklus - Other Seikleja_33: 870954179
+      PC Computer - Seiklus - Other Seikleja_34: -1908014308
+      PC Computer - Seiklus - Other Seikleja_35: -343037697
+      PC Computer - Seiklus - Other Seikleja_36: 1634033860
       PC Computer - Seiklus - Other Seikleja_4: -1538037535
+      PC Computer - Seiklus - Other Seikleja_5: 1482587417
+      PC Computer - Seiklus - Other Seikleja_6: -557384808
+      PC Computer - Seiklus - Other Seikleja_7: 790155481
+      PC Computer - Seiklus - Other Seikleja_8: -147114804
+      PC Computer - Seiklus - Other Seikleja_9: -540966119
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

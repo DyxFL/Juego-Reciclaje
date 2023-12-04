@@ -19,10 +19,10 @@ public class FondoControl : MonoBehaviour
         position.y += speed * Time.deltaTime; // Añadimos a la posición en el eje y la velocidad multiplicada por el tiempo transcurrido desde el último frame
 
         // Si el sprite ha pasado su altura
-        if (position.y <= -30)
+        if (position.y <= -32)
         {
             // Reiniciamos la posición del sprite
-            position.y += spriteHeight-44;
+            position.y += spriteHeight-31;
         }
         transform.position = position; // Asignamos la nueva posición al sprite
     }

@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Arbol
+  - Plastico
+  - Carton
+  - Vidrio
+  - Organico
+  - NoRecicla
+  - PowerUp
   layers:
   - Default
   - TransparentFX

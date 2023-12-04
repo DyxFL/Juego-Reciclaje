@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class ItemMove : MonoBehaviour
 {
-    public float velocidad = 10f; // Velocidad de movimiento del objeto
+    public float velocidad = 5f; // Velocidad de movimiento del objeto
     private float limiteInferior = -10f; // Límite inferior de la pantalla
 
     void Update()
