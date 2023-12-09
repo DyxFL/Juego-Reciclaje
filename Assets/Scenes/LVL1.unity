@@ -1716,6 +1716,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 615025344322525727, guid: 08054cdede980a24ab0ae3ff6ad669ef, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2551857673626805514, guid: 08054cdede980a24ab0ae3ff6ad669ef, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -1756,6 +1760,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7648703274123577768, guid: 08054cdede980a24ab0ae3ff6ad669ef, type: 3}
+      propertyPath: m_BodyType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7648703274123577768, guid: 08054cdede980a24ab0ae3ff6ad669ef, type: 3}
+      propertyPath: m_UseFullKinematicContacts
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8395120438894303008, guid: 08054cdede980a24ab0ae3ff6ad669ef, type: 3}
       propertyPath: cartonText
       value: 
@@ -1764,6 +1776,10 @@ PrefabInstance:
       propertyPath: vidrioText
       value: 
       objectReference: {fileID: 1115078376}
+    - target: {fileID: 8395120438894303008, guid: 08054cdede980a24ab0ae3ff6ad669ef, type: 3}
+      propertyPath: panelInicio
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8395120438894303008, guid: 08054cdede980a24ab0ae3ff6ad669ef, type: 3}
       propertyPath: organicoText
       value: 
