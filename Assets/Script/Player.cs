@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using UnityEngine.SceneManagement;
+
 
 [Serializable]
 public class Score
@@ -24,6 +26,8 @@ public class Player : MonoBehaviour
     public TextMeshProUGUI organicoText;
     public TextMeshProUGUI plasticoText;
     public Rigidbody2D[] vida;
+    public GameObject game;
+    public GameObject menuDead;
 
 
     private Rigidbody2D rb;
@@ -69,6 +73,8 @@ public class Player : MonoBehaviour
         if (lives < 0)
         {
             Destroy(gameObject);
+            game.SetActive(false);
+            menuDead.SetActive(true);
         }
         // Cambiar el sprite del personaje al presionar las teclas Y, U, I, O, P
         if (Input.GetKeyDown(KeyCode.Space))

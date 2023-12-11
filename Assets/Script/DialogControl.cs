@@ -18,7 +18,7 @@ public class DialogControl : MonoBehaviour
     public float typingSpeed = 0.02f; // Velocidad de aparición del texto
     public GameObject[] paneles; // Array de paneles
     public GameObject canvas; // El canvas que contiene los diálogos
-    public GameObject game; // Tu juego
+    public GameObject game; //Juego
 
     void Start()
     {

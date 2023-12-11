@@ -164,6 +164,90 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: DS DSi - Petit Computer - BGD Panel & Dialog_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1036e1dd7dce6c64f99637176257a38a
+      internalID: 1208936207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Petit Computer - BGD Panel & Dialog_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 163
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50a98b259bc3524791f58efe434b0e9
+      internalID: 2067552737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Petit Computer - BGD Panel & Dialog_4
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 179
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bd3d8804e6b7e45a0bc97c1008c127
+      internalID: 1354634475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Petit Computer - BGD Panel & Dialog_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 179
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0369a95d2d21a47479ec052722be2388
+      internalID: -1810073493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -177,6 +261,10 @@ TextureImporter:
     nameFileIdTable:
       DS DSi - Petit Computer - BGD Panel & Dialog_0: -559260119
       DS DSi - Petit Computer - BGD Panel & Dialog_1: -1675261647
+      DS DSi - Petit Computer - BGD Panel & Dialog_2: 1208936207
+      DS DSi - Petit Computer - BGD Panel & Dialog_3: 2067552737
+      DS DSi - Petit Computer - BGD Panel & Dialog_4: 1354634475
+      DS DSi - Petit Computer - BGD Panel & Dialog_5: -1810073493
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
