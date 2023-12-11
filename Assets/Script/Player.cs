@@ -25,6 +25,7 @@ public class Player : MonoBehaviour
     public TextMeshProUGUI plasticoText;
     public Rigidbody2D[] vida;
 
+
     private Rigidbody2D rb;
     private Vector2 screenBounds;
     private SpriteRenderer spriteRenderer;
